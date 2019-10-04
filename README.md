@@ -30,3 +30,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##RestFUL API -> https://jsonplaceholder.typicode.com/todos
 
 
+## Snapshots of the Project 
+Task 4 https://ibb.co/jvcLGsx
+Task 4 https://ibb.co/yNczZ1L
+Task 3 https://ibb.co/vm4vrf9
+Task 2 https://ibb.co/qdmMQSk
+Task 1 https://ibb.co/482cGgc
+
