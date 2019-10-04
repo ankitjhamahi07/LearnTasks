@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+
+  .example-header-image {
+    background-image: url('https://media.glassdoor.com/sqll/1195243/nineleaps-technology-solutions-squarelogo-1567505234547.png');
+    background-size: cover;
+  }
